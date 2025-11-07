@@ -1,8 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{443BB45B-D97A-4CCE-8B86-A53FBD19BC6F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "Task1\Task1.csproj", "{443BB45B-D97A-4CCE-8B86-A53FBD19BC6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{A0BC881C-C261-4290-9830-747A41512E24}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1_Test", "Task1_Test\Task1_Test.csproj", "{A0BC881C-C261-4290-9830-747A41512E24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "Task2\Task2.csproj", "{F22CB9BD-EE9F-4036-B96E-9F9AFFFF9ACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2_Test", "Task2_Test\Task2_Test.csproj", "{EA456E48-D482-43BC-9CE9-FB3FC4722BBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +22,13 @@ Global
 		{A0BC881C-C261-4290-9830-747A41512E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0BC881C-C261-4290-9830-747A41512E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0BC881C-C261-4290-9830-747A41512E24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F22CB9BD-EE9F-4036-B96E-9F9AFFFF9ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F22CB9BD-EE9F-4036-B96E-9F9AFFFF9ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F22CB9BD-EE9F-4036-B96E-9F9AFFFF9ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F22CB9BD-EE9F-4036-B96E-9F9AFFFF9ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA456E48-D482-43BC-9CE9-FB3FC4722BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA456E48-D482-43BC-9CE9-FB3FC4722BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA456E48-D482-43BC-9CE9-FB3FC4722BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA456E48-D482-43BC-9CE9-FB3FC4722BBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

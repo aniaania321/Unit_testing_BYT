@@ -1,4 +1,4 @@
-namespace ConsoleApp1
+namespace Task1
 {
     public class Sphere(double radius) : IShape
     {

@@ -1,6 +1,6 @@
-using ConsoleApp1;
+using Task1;
 
-namespace TestProject1;
+namespace Task1_Test;
 
 public class Tests
 {
